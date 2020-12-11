@@ -1,7 +1,7 @@
 ![image](https://github.com/internetassociation/SITARA/blob/main/Assets/IA_Mark.png)
 
 # SITARA
-A repository with data, artifacts, and other useful information related to IA's [SITARA Map](https://internetassociation.org/sitara).
+A repository with data, artifacts, and other useful information related to IA's [SITARA](https://internetassociation.org/sitara) map.
 
 ## Contents
 
