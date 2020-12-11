@@ -1,4 +1,4 @@
-![image]((https://github.com/internetassociation/SITARA/Assets/IA_Mark.png)
+![image](https://github.com/internetassociation/SITARA/blob/main/Assets/IA_Mark.png)
 
 # Data
 These are the data sets and sources used in IA's [SITARA Map](https://internetassociation.org/sitara).
