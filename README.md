@@ -14,6 +14,7 @@ Updates will be documented in our [Changelog](CHANGELOG.md). Adopting the format
 - Changes to PATCH version:
    - Correct typos, scrivener's error, broken links, and similar issues.
    - Improve quality of data by updating the source cited.
+   - Improve quality of repository, whether with new content or new files.
 
 ## Contents
 
