@@ -5,7 +5,10 @@
 The format is based on [Keep a Changelog v1.0.0](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning v2.0.0](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-None at this time.
+**1.1.0 - TBD**
+- Create individual pages for each state.
+- Update all links and information to reflect changes that occurred over Q2 of FY21.
+- Create an issue template to better gather feedback.
 
 ## 1.0.1 - 2021-01-22
 - Update Readme to reflect update process.
