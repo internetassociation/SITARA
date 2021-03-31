@@ -33,7 +33,7 @@ SITARA examines a variety of data points that are relevant to IT modernization d
 - **[Assets](https://github.com/internetassociation/SITARA/tree/main/Assets)**
    - These are files, such as our logo, that we use to make this Readme and other files in this repository a bit more exciting and modern for you, the reader!
 - **[Data](https://github.com/internetassociation/SITARA/tree/main/Data)**
-   - [Individual SLTT Data](https://github.com/internetassociation/SITARA/blob/main/Data/Individual-SLTT-Data/) contains Markdown files that include the same data and information included in [SITARA](https://internetassociation.org/sitara).
+   - [Individual SLTT Data](https://github.com/internetassociation/SITARA/tree/main/Data/Individual-Data) contains Markdown files that include the same data and information included in [SITARA](https://internetassociation.org/sitara).
    - [Resources](https://github.com/internetassociation/SITARA/blob/main/Data/Resources/) contains a collection of Excel, PDF, and other files that contain useful information.
 
 
